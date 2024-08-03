@@ -1,2 +1,2 @@
-# Bioinformatics-Coursera
+# Bioinformatics
 Bioinformatics algorithms (Python)
